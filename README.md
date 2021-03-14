@@ -1,5 +1,5 @@
 # projetGrails-Group5
-Membre du group
-Assi Maurel Gemeri
-Kouassi Gildas
-Kouasso Jaures
+Membre du group;
+Assi Maurel Gemeri;
+Kouassi Gildas;
+Kouasso Jaures;
